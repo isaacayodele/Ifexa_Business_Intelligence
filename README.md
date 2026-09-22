@@ -1,4 +1,4 @@
-# IFEXA Retail Business Performance Intelligence Dashboard
+# Business Performance Intelligence Dashboard
 
 ## Project Overview
 
